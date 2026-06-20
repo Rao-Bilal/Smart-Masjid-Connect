@@ -1,0 +1,634 @@
+[
+  {
+    "text": "Namaz har baaligh aur aaqil Musalman par farz hai, mard ho ya aurat.",
+    "source": "Quran 2:43; consensus (Ijma)",
+    "category": "Salah - Obligation",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Namaz se pehle wudu karna zaroori hai; bagair wudu ke namaz sahih nahi hoti.",
+    "source": "Quran 5:6; Sahih Bukhari",
+    "category": "Salah - Conditions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Agar paani na mile ya paani istemal karne se nuqsan ka khatra ho, to tayammum karna jaiz hai.",
+    "source": "Quran 4:43",
+    "category": "Salah - Conditions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Namazi ka jism, kapde aur jaye namaz paak hona zaroori hai.",
+    "source": "Quran 74:4; Sahih Bukhari",
+    "category": "Salah - Conditions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Mard ke liye satr-e-aurat naaf se ghutno tak chhupana farz hai; behtar yeh hai ke kandhe bhi dhanke jayein.",
+    "source": "Hanafi fiqh derived ruling (based on Sahih Bukhari, Sunan Abu Dawood)",
+    "category": "Salah - Conditions",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Namaz ke waqt ka dakhil hona zaroori hai; waqt se pehle namaz parhna sahih nahi.",
+    "source": "Quran 4:103",
+    "category": "Salah - Conditions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Qibla (Khana-e-Kaaba) ki taraf rukh karna namaz ki sharton mein se hai.",
+    "source": "Quran 2:144",
+    "category": "Salah - Conditions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Har farz namaz se pehle niyyat karna zaroori hai; niyyat dil ke irade ka naam hai, zubaan se kehna zaroori nahi.",
+    "source": "Hanafi fiqh derived ruling (based on Sahih Bukhari hadith 'Innamal a'malu bin-niyyat')",
+    "category": "Salah - Conditions",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Takbeer-e-Tahrima ('Allahu Akbar') ke saath namaz shuru hoti hai aur is se pehle haath kaano tak uthana Hanafi mazhab mein sunnat hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sahih Muslim)",
+    "category": "Salah - Pillars",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Har rakat mein Surah Fatiha parhna wajib hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sahih Bukhari, Sahih Muslim)",
+    "category": "Salah - Pillars",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Ruku mein jaate waqt aur ruku se uthte waqt itminan (sukoon) se arkaan ada karna zaroori hai.",
+    "source": "Sahih Bukhari (hadith of the man who prayed badly)",
+    "category": "Salah - Pillars",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Sajdah mein peshani, naak, dono haath, dono ghutne aur dono paon ke panje zameen par lagana farz hai.",
+    "source": "Sahih Muslim",
+    "category": "Salah - Pillars",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Har rakat mein do sajde karna farz hai.",
+    "source": "Quran 22:77; Sahih Bukhari",
+    "category": "Salah - Pillars",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Akhri qaide mein Tashahhud ('At-tahiyyatu...') parhna wajib hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sahih Muslim)",
+    "category": "Salah - Pillars",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Namaz ka ikhtitaam dayen aur bayen taraf salaam pherne se hota hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Abu Dawood, Sunan Tirmidhi)",
+    "category": "Salah - Pillars",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Agar wudu toot jaye (jaise hawa kharij ho, neend aa jaye, khoon nikle) to namaz fasid ho jati hai aur dobara wudu zaroori hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sahih Bukhari, Sunan Abu Dawood)",
+    "category": "Salah - Nullifiers",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Jaan-boojh kar baat karne se namaz toot jati hai.",
+    "source": "Sahih Muslim",
+    "category": "Salah - Nullifiers",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Qaza namaz (chooti hui farz namaz) ko jald az jald ada karna wajib hai, chahe waqt guzar gaya ho.",
+    "source": "Sahih Bukhari, Sahih Muslim",
+    "category": "Salah - Qaza",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Safar ki halat mein chaar rakat wali farz namazein (Zuhr, Asr, Isha) qasr karke do rakat parhna Hanafi mazhab mein rukhsat hai.",
+    "source": "Quran 4:101; Sahih Bukhari",
+    "category": "Salah - Travel",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Bimar shaks agar khada hokar namaz na parh sake to baith kar, aur agar yeh bhi na ho sake to leit kar isharay se namaz parh sakta hai.",
+    "source": "Sahih Bukhari",
+    "category": "Salah - Sick/Disabled",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+
+  {
+    "text": "Zakat har baaligh, aaqil, azaad Musalman par farz hai jiske paas nisab ke barabar maal sal-e-kaamil (poora chaand saal) tak maujood rahe.",
+    "source": "Quran 2:43; consensus (Ijma)",
+    "category": "Zakat - Obligation",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Zakat Islam ke paanch bunyaadi arkaan mein se ek hai.",
+    "source": "Sahih Bukhari, Sahih Muslim",
+    "category": "Zakat - Obligation",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Sona ka nisab saadhe saat tola (taqreeban 87.48 gram) hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Abu Dawood, Sunan Nasai)",
+    "category": "Zakat - Nisab",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Chandi ka nisab saadhe baawan tola (taqreeban 612.36 gram) hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Abu Dawood, Sunan Nasai)",
+    "category": "Zakat - Nisab",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Nisab ki miqdaar tak pahunchne ke baad zakat ki shari'i nirkh paanch fee sad nahi balke dhai fee sad (2.5%) hai.",
+    "source": "Sahih Bukhari",
+    "category": "Zakat - Rate",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Cash, bank balance, aur trade ke maal (saaman-e-tijarat) par bhi zakat farz hai, agar woh nisab ko pahunche.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Abu Dawood)",
+    "category": "Zakat - Assets",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Hanafi mazhab mein zakat ke nisab ka hisaab lagate waqt sona, chandi, cash aur trade ka maal sab ko mila kar dekha jata hai.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Zakat - Assets",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Zaati istemal ki cheezein jaise rehaishi ghar, sawari aur ghar ka saaman par zakat farz nahi.",
+    "source": "Hanafi fiqh derived ruling (consensus among jurists)",
+    "category": "Zakat - Assets",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Charta hua maweshi (saaima) jaise bakriyan, gaaye aur unt jo sal-e-kaamil tak charai par rahe, un par bhi zakat farz hai agar nisab ko pahunchein.",
+    "source": "Sahih Bukhari",
+    "category": "Zakat - Assets",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Zewar (jewellery) jo aurat zaati istemal ke liye pehnti hai, Hanafi mazhab ke mash'hoor qaul ke mutabiq us par bhi zakat farz hai agar nisab ko pahunche.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Zakat - Assets",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Qarz (loan) jo kisi par wajib-ul-ada ho aur wapas milne ki ummeed ho, us par bhi zakat farz hai, lekin ada usi waqt ki jati hai jab woh wapas mil jaye.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Zakat - Assets",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Jis shaks par khud apna qarz (jo woh doosron ka deta hai) ho, woh apne maal ki miqdaar mein se qarz ki raqam minus karke baqi par zakat ada karega.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Zakat - Assets",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Zakat ke mustahiq aath qisam ke log hain: fuqara, masakeen, aamileen (zakat jama karne wale), muallafat-ul-quloob, ghulamon ki azadi, qarzdaar, fi sabilillah aur musafir.",
+    "source": "Quran 9:60",
+    "category": "Zakat - Recipients",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Sayyid (Bani Hashim ki aulad) ko zakat dena jaiz nahi.",
+    "source": "Sahih Muslim",
+    "category": "Zakat - Recipients",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Apne walidain, aulad, ya biwi ko zakat dena jaiz nahi kyunke unka nafqa pehle se zimmedari hai.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Zakat - Recipients",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Ghair-Muslim ko zakat dena jaiz nahi, albata nafli sadqa dena jaiz hai.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Zakat - Recipients",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Zakat sal-e-kaamil (poora ek Hijri saal) guzarne ke baad farz hoti hai; agar maal beech mein kam ho jaye phir nisab tak wapas pahunch jaye to saal naye sire se shuru hota hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Abu Dawood)",
+    "category": "Zakat - Timing",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Zakat ko Ramzan mein ada karna afzal samjha jata hai, lekin yeh shart nahi; jab bhi nisab par saal poora ho, zakat farz ho jati hai.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Zakat - Timing",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Zakat ko waqt se pehle (advance) ada karna Hanafi mazhab mein jaiz hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Tirmidhi)",
+    "category": "Zakat - Timing",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Zakat na dene wale shaks ko sakht waeed (warning) sunaai gayi hai, aur Islami hukumat zakat na dene walon se zabardasti zakat wasool kar sakti hai.",
+    "source": "Quran 9:34-35; Sahih Bukhari",
+    "category": "Zakat - Obligation",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+
+  
+
+
+
+
+  
+  {
+    "text": "Nikah ek shar'i aqad hai jo ijab-o-qabool se mukammal hota hai aur isse mard aurat ek doosre ke liye halal ho jate hain.",
+    "source": "Quran 4:21; consensus (Ijma)",
+    "category": "Nikah - Definition",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Nikah ke sahih hone ke liye do gawahon (mard ya ek mard do auratein) ka hona zaroori hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Tirmidhi)",
+    "category": "Nikah - Conditions",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Nikah mein ijab-o-qabool dono fariqain ki raza-mandi se hona zaroori hai; zabardasti ka nikah Hanafi mazhab mein bhi pasandeeda nahi.",
+    "source": "Sahih Bukhari",
+    "category": "Nikah - Conditions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Aaqil baaligh aurat Hanafi mazhab mein apna nikah khud bhi kar sakti hai bagair wali ki ijazat ke, agar kufw (hum-paya) mard se ho.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Abu Dawood)",
+    "category": "Nikah - Conditions",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Agar baaligh aurat apna nikah ghair-kufw (na hum-paya) mard se kare to wali ko adalat mein faskh karwane ka haq hasil hai.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Nikah - Conditions",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Mahr aurat ka shar'i haq hai jo nikah ke waqt muqarrar kiya jata hai aur mard par ada karna wajib hota hai.",
+    "source": "Quran 4:4",
+    "category": "Nikah - Mahr",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Agar nikah ke waqt mahr muqarrar na ho to bhi nikah sahih hai, aur mahr-e-mithl (us jaisi auraton ka raaij mahr) wajib ho jata hai.",
+    "source": "Hanafi fiqh derived ruling (based on Quran 2:236)",
+    "category": "Nikah - Mahr",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Hanafi mazhab mein mahr ki koi zyada had muqarrar nahi, lekin kam az kam had das dirham hai.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Nikah - Mahr",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Mahasin-e-nasab (qarabat) ki bina par maa, behn, beti, phupi, khala, aur unke jaisi mehrim auraton se nikah haram hai.",
+    "source": "Quran 4:23",
+    "category": "Nikah - Prohibited",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Razaa'i (doodh sharik) rishtedaron se bhi usi tarah nikah haram hai jaise nasabi rishtedaron se, agar doodh peene ki shar'i miqdaar poori ho.",
+    "source": "Sahih Bukhari, Sahih Muslim",
+    "category": "Nikah - Prohibited",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Sasural ke rishtey jaise saas, biwi ki beti (agar rukhsati ho chuki ho), damaad waghera se bhi nikah haram hai.",
+    "source": "Quran 4:23",
+    "category": "Nikah - Prohibited",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Do haqeeqi behnon se ek waqt mein nikah mein rakhna haram hai.",
+    "source": "Quran 4:23",
+    "category": "Nikah - Prohibited",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Mard Hanafi mazhab mein bayak-waqt zyada se zyada chaar biwiyan rakh sakta hai, basharte un sab ke saath adal (insaaf) kar sake.",
+    "source": "Quran 4:3",
+    "category": "Nikah - Polygamy",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Musalman mard ke liye Ahl-e-Kitab (Yahudi ya Eisai) aurat se nikah jaiz hai, lekin Musalman aurat ka ghair-Muslim mard se nikah jaiz nahi.",
+    "source": "Quran 5:5, 2:221",
+    "category": "Nikah - Conditions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Walima (shadi ke baad dawat) karna sunnat-e-mu'akkadah hai.",
+    "source": "Sahih Bukhari",
+    "category": "Nikah - Sunnah Practices",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Shauhar par biwi ka nafqa (khana, kapda, rehaish) ada karna wajib hai, uski maali haisiyat ke mutabiq.",
+    "source": "Quran 2:233; Hanafi fiqh derived ruling",
+    "category": "Nikah - Rights and Duties",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Biwi par shauhar ki shar'i ita'at (jaayaz baaton mein) wajib hai.",
+    "source": "Quran 4:34",
+    "category": "Nikah - Rights and Duties",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Talaq mard ka haq hai jo woh wazeh alfaz ya isharay se de sakta hai; ek tuhr mein ek talaq dena Hanafi mazhab mein behtareen tareeqa (talaq-e-ahsan) hai.",
+    "source": "Hanafi fiqh derived ruling (based on Quran 65:1)",
+    "category": "Nikah - Divorce",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Talaq ke baad aurat ko iddat guzaarni zaroori hai; haml wali aurat ki iddat wadha-e-haml (bachay ki paidaish) tak hai, aur jiske haiz aata ho uski iddat teen haiz hai.",
+    "source": "Quran 65:4, 2:228",
+    "category": "Nikah - Divorce",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Khula aurat ka haq hai jisme woh mahr ya kuch maal wapas karke shauhar se nikah khatam karwa sakti hai, agar shauhar raazi ho ya qazi faisla kare.",
+    "source": "Quran 2:229",
+    "category": "Nikah - Divorce",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+
+
+
+
+
+  {
+    "text": "Ramzan ke roze har baaligh, aaqil, muqeem (ghair-musafir) aur sehatmand Musalman par farz hain.",
+    "source": "Quran 2:183",
+    "category": "Roza - Obligation",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Roza Islam ke paanch arkaan mein se ek hai.",
+    "source": "Sahih Bukhari, Sahih Muslim",
+    "category": "Roza - Obligation",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Roze ke liye subah sadiq se le kar sooraj ghuroob hone tak khaane, peene aur jima se rukna farz hai.",
+    "source": "Quran 2:187",
+    "category": "Roza - Definition",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Har roze se pehle niyyat karna zaroori hai; Hanafi mazhab mein raat ya din mein zawaal se pehle tak niyyat ki ja sakti hai agar kuch khaaya-piya na ho.",
+    "source": "Hanafi fiqh derived ruling (based on Sahih Muslim)",
+    "category": "Roza - Conditions",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Sehri khaana mustahab aur baabarakat amal hai, aur ise waqt ke aakhir tak mu'akhkhar karna behtar hai.",
+    "source": "Sahih Bukhari",
+    "category": "Roza - Sunnah Practices",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Iftaar ko jald karna (sooraj ghuroob hote hi) mustahab hai.",
+    "source": "Sahih Bukhari",
+    "category": "Roza - Sunnah Practices",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Jaan-boojh kar khana ya pani roze ki halat mein lene se roza toot jata hai aur qaza ke saath kaffarah bhi wajib ho jata hai.",
+    "source": "Sahih Bukhari, Sahih Muslim",
+    "category": "Roza - Nullifiers",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Bhool kar khana ya pani peene se roza nahi tootta, aur roza usi tarah jaari rakhna chahiye.",
+    "source": "Sahih Bukhari, Sahih Muslim",
+    "category": "Roza - Nullifiers",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Jaan-boojh kar qai (vomit) karne se roza toot jata hai, lekin khud-ba-khud qai aane se roza nahi tootta.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Abu Dawood, Sunan Tirmidhi)",
+    "category": "Roza - Nullifiers",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Jima (humbistari) roze ki halat mein karne se roza toot jata hai aur sakht kaffarah (60 din musalsal roze ya 60 miskeenon ko khana) wajib ho jata hai.",
+    "source": "Sahih Bukhari, Sahih Muslim",
+    "category": "Roza - Nullifiers",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Aurat ko haiz ya nifas ki halat mein roza rakhna jaiz nahi; un dinon ka roza baad mein qaza karna wajib hai.",
+    "source": "Sahih Bukhari",
+    "category": "Roza - Exemptions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Musafir (jo shar'i safar par ho) ko roza na rakhne ki rukhsat hai, lekin baad mein qaza karna wajib hai.",
+    "source": "Quran 2:184-185",
+    "category": "Roza - Exemptions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Bimar shaks jise roza rakhne se nuqsan ka khauf ho, use roza chhodne ki ijazat hai, aur sehat-yaabi ke baad qaza wajib hai.",
+    "source": "Quran 2:184-185",
+    "category": "Roza - Exemptions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Hamla (pregnant) ya doodh pilane wali aurat agar apni ya bachay ki sehat ke khauf se roza na rakh sake to use chhodne ki ijazat hai, baad mein qaza karna hoga.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Abu Dawood)",
+    "category": "Roza - Exemptions",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Buddhe ya mustaqil mareez shaks jo roza rakhne ke qabil na ho, woh har roze ke badle fidya (ek miskeen ko khana khilana) ada kar sakta hai.",
+    "source": "Quran 2:184",
+    "category": "Roza - Exemptions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Bachay par roza farz nahi, lekin tarbiyat ke taur par usay roza rakhne ki aadat dalwana mustahab hai.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Roza - Exemptions",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Miswak karna, nahana, aur thandak ke liye paani ka istemal karna roze ki halat mein jaiz hai.",
+    "source": "Sahih Bukhari",
+    "category": "Roza - Permitted",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Ankhon mein dawa daalna ya surma lagana Hanafi mazhab mein roze ko nahi todta.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Roza - Permitted",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Aitekaf (masjid mein khalwat-nashini) Ramzan ke aakhri ashre mein sunnat-e-mu'akkadah alal-kifaya hai.",
+    "source": "Sahih Bukhari",
+    "category": "Roza - Sunnah Practices",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Qaza roze rakhna us shaks par wajib hai jiska roza kisi shar'i uzr (jaise bimari, safar, haiz) ki wajah se reh gaya ho, aur ise agle Ramzan se pehle poora karna chahiye.",
+    "source": "Quran 2:185; Sahih Bukhari",
+    "category": "Roza - Qaza",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  }
+
+  ,
+
+
+
+
+
+  
+  {
+    "text": "Hajj zindagi mein ek baar har us baaligh, aaqil, azaad Musalman par farz hai jo maali aur jismani taur par istita'at (sahuliyat) rakhta ho.",
+    "source": "Quran 3:97",
+    "category": "Hajj - Obligation",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Hajj Islam ke paanch arkaan mein se ek hai.",
+    "source": "Sahih Bukhari, Sahih Muslim",
+    "category": "Hajj - Obligation",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Istita'at mein safar ke kharchay, ghar walon ki zaroori zaroori cheezein, aur waqt par wapasi tak ke intizamaat shaamil hain.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Hajj - Obligation",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Aurat ke liye Hajj par jaate waqt mahram (shauhar ya jisse nikah haram ho) ka saath hona Hanafi mazhab mein zaroori hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sahih Bukhari, Sahih Muslim)",
+    "category": "Hajj - Conditions",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Ihram Hajj ya Umrah ki niyyat ke saath miqat se ya us se pehle baandha jata hai, aur is se kuch kaam haram ho jate hain.",
+    "source": "Sahih Bukhari",
+    "category": "Hajj - Ihram",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Mard ke liye ihram ki halat mein silay hue kapde pehnna mana hai; sirf do bagair silay kapde (chaadar) istemal kiye jate hain.",
+    "source": "Sahih Bukhari",
+    "category": "Hajj - Ihram",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Aurat ihram ki halat mein apne mamooli kapde pehan sakti hai, sirf chehra khula rakhna aur dastane na pehnna zaroori hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Abu Dawood)",
+    "category": "Hajj - Ihram",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Ihram ki halat mein khushbu lagana, baal ya naakhun katna, aur shikaar karna mana hai.",
+    "source": "Quran 5:95-96; Sahih Bukhari",
+    "category": "Hajj - Ihram Prohibitions",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Ihram ki halat mein nikah karna ya karwana Hanafi mazhab mein makrooh-e-tahrimi hai, lekin nikah ho jaye to fasid nahi hota.",
+    "source": "Hanafi fiqh derived ruling (based on Sahih Muslim)",
+    "category": "Hajj - Ihram Prohibitions",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Khana-e-Kaaba ka saat chakkar (tawaf) lagana Hajj aur Umrah ka rukn hai.",
+    "source": "Quran 22:29; Sahih Bukhari",
+    "category": "Hajj - Rites",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Safa aur Marwa ke darmiyan saat chakkar (sa'i) karna Hajj aur Umrah ka wajib rukn hai.",
+    "source": "Quran 2:158; Sahih Bukhari",
+    "category": "Hajj - Rites",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "9 Zil-Hajj ko Arafat ke maidan mein zawaal ke baad thaharna (wuquf-e-Arafa) Hajj ka sab se aham rukn hai; iske bagair Hajj sahih nahi hota.",
+    "source": "Sahih Tirmidhi (hadith: 'Al-Hajju Arafah')",
+    "category": "Hajj - Rites",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Muzdalifa mein raat guzaarna aur fajr ki namaz wahan ada karna Hanafi mazhab mein wajib hai.",
+    "source": "Quran 2:198; Hanafi fiqh derived ruling",
+    "category": "Hajj - Rites",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "10, 11, aur 12 Zil-Hajj ko Mina mein jamraat (shaitan) ko kankariyan maarna wajib hai.",
+    "source": "Sahih Muslim",
+    "category": "Hajj - Rites",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Qurbani (hady) karna un logon par wajib hai jo Hajj-e-Tamattu ya Hajj-e-Qiran ada kar rahe hon.",
+    "source": "Quran 2:196",
+    "category": "Hajj - Rites",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Qurbani ke baad baal mundwana ya katwana (halaq ya qasr) wajib hai; mard ke liye poora sar mundwana afzal hai.",
+    "source": "Quran 48:27; Sahih Bukhari",
+    "category": "Hajj - Rites",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Tawaf-e-Ziarat (Tawaf-e-Ifadah) Hajj ka rukn hai jo Qurbani aur halaq ke baad Khana-e-Kaaba ka kiya jata hai.",
+    "source": "Quran 22:29; Sahih Bukhari",
+    "category": "Hajj - Rites",
+    "source_confidence": "Directly textual (Quran/authentic Hadith)"
+  },
+  {
+    "text": "Makkah se rukhsat hote waqt Tawaf-e-Wida karna Hanafi mazhab mein wajib hai, magar Makkah ke rehne walon par wajib nahi.",
+    "source": "Hanafi fiqh derived ruling (based on Sahih Muslim)",
+    "category": "Hajj - Rites",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Agar koi shakhs Hajj ke kisi wajib amal ko chhod de to uske badle dam (qurbani) wajib ho jata hai.",
+    "source": "Hanafi fiqh derived ruling",
+    "category": "Hajj - Penalties",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  },
+  {
+    "text": "Agar koi shakhs wuquf-e-Arafa se reh jaye to uska Hajj faut ho jata hai aur agle saal qaza Hajj karna wajib hota hai.",
+    "source": "Hanafi fiqh derived ruling (based on Sunan Tirmidhi)",
+    "category": "Hajj - Penalties",
+    "source_confidence": "Fiqh ruling derived by scholars; may vary by madhab"
+  }
+
+
+
+
+]
+
+
+
+
+
+
+  
